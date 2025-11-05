@@ -1,4 +1,4 @@
-This is my python assignment 1.
+This is a python assignment 1.
 
 In Task 1 :-
 
