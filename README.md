@@ -1,5 +1,3 @@
-This is a python assignment 1.
-
 In Task 1 :-
 
 A Python program that does the following:
