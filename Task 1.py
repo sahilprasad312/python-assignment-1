@@ -12,3 +12,6 @@ print(multiplication)
 
 division = num1 / num2
 print(division)
+if num2 = 0:
+  print("Division By Zero is not possible")
+   
